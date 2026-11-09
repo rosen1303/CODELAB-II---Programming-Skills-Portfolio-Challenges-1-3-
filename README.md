@@ -27,22 +27,22 @@ g++ -std=c++17 challenge1.cpp -o challenge1.exe
 
 Enter the distance in miles, then choose `1` for petrol or `2` for diesel.
 
-## Challenge 2: Alexa Joke Program
+# Challenge 2: Alexa Joke Program
 
 In `Challenge2_Jokes`, compile and run:
 
-```powershell
+powershell
 g++ -std=c++17 challenge2.cpp -o challenge2.exe
 .\challenge2.exe
 
 
 Keep `randomJokes.txt` in this folder. Type `Alexa, tell me a joke` to request a joke, then press Enter to reveal the punchline. Type `quit` at the request prompt to exit.
 
-## Challenge 3: Book Manager
+# Challenge 3: Book Manager
 
 In `Challenge3_Books`, compile and run:
 
-```powershell
+powershell
 g++ -std=c++17 challenge3.cpp -o challenge3.exe
 .\challenge3.exe
 
