@@ -10,17 +10,17 @@ This repository contains three C++ coding challenges that have been provided to 
 | `Challenge2_Jokes` | `challenge2.cpp` | Reads jokes from `randomJokes.txt`, selects a random joke and reveals the punchline after user input. |
 | `Challenge3_Books` | `challenge3.cpp` | Reads `bookData.txt` and provides a menu to view, borrow and return books. |
 
-## Requirements and how to run the programme
+# Requirements and how to run the programme
 
 A C++ compiler supporting C++17, such as GCC (`g++`), is required. The commands below are for Windows PowerShell with `g++` available on PATH.
 
 Each challenge is a separate program. Open a terminal in the relevant challenge folder before compiling and running it.
 
-## Challenge 1: CO2 Calculator
+# Challenge 1: CO2 Calculator
 
 In `Challenge1_CO2`, compile and run:
 
-```powershell
+powershell
 g++ -std=c++17 challenge1.cpp -o challenge1.exe
 .\challenge1.exe
 
