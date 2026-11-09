@@ -20,8 +20,9 @@ Each challenge is a separate program. Open a terminal in the relevant challenge 
 
 In `Challenge1_CO2`, compile and run:
 
-powershell
+
 g++ -std=c++17 challenge1.cpp -o challenge1.exe
+
 .\challenge1.exe
 
 
@@ -31,8 +32,9 @@ Enter the distance in miles, then choose `1` for petrol or `2` for diesel.
 
 In `Challenge2_Jokes`, compile and run:
 
-powershell
+
 g++ -std=c++17 challenge2.cpp -o challenge2.exe
+
 .\challenge2.exe
 
 
@@ -42,8 +44,8 @@ Keep `randomJokes.txt` in this folder. Type `Alexa, tell me a joke` to request a
 
 In `Challenge3_Books`, compile and run:
 
-powershell
 g++ -std=c++17 challenge3.cpp -o challenge3.exe
+
 .\challenge3.exe
 
 
