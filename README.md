@@ -23,7 +23,7 @@ In `Challenge1_CO2`, compile and run:
 ```powershell
 g++ -std=c++17 challenge1.cpp -o challenge1.exe
 .\challenge1.exe
-```
+
 
 Enter the distance in miles, then choose `1` for petrol or `2` for diesel.
 
@@ -34,7 +34,7 @@ In `Challenge2_Jokes`, compile and run:
 ```powershell
 g++ -std=c++17 challenge2.cpp -o challenge2.exe
 .\challenge2.exe
-```
+
 
 Keep `randomJokes.txt` in this folder. Type `Alexa, tell me a joke` to request a joke, then press Enter to reveal the punchline. Type `quit` at the request prompt to exit.
 
@@ -45,7 +45,7 @@ In `Challenge3_Books`, compile and run:
 ```powershell
 g++ -std=c++17 challenge3.cpp -o challenge3.exe
 .\challenge3.exe
-```
+
 
 Keep `bookData.txt` in this folder. Use menu options `1` to `5` to view all books, view one book, borrow, return or exit. Enter full book IDs, including leading zeros, such as `002`.
 
